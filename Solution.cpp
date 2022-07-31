@@ -3,8 +3,8 @@
 using namespace std;
 
 class Solution {
+    
 public:
-
     long long zeroFilledSubarray(vector<int>& nums) {
         int index = 0;
         long long zeroFilledSubarrays = 0;
